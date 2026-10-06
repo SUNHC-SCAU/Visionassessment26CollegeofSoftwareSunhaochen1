@@ -16,3 +16,6 @@ build/
 out/
 
 Project2/corner_*.jpg
+
+
+!Project2/标定板.pdf
