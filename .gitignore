@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.ipch
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+Debug/
+Release/
+x64/
+ipch/
+
+# OpenCV / build
+build/
+out/
