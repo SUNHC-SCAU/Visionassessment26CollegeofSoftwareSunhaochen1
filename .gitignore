@@ -14,3 +14,5 @@ ipch/
 # OpenCV / build
 build/
 out/
+
+Project2/corner_*.jpg
